@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>多选选中</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="风险评估2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-80.000000, -554.000000)">
+        <g id="Group-2" transform="translate(40.000000, 168.000000)">
+            <g id="对勾(1)" transform="translate(40.000000, 386.000000)">
+                <g id="多选选中">
+                    <rect id="Rectangle-6" stroke="#D1AD71" stroke-width="4" x="2" y="2" width="32" height="32"></rect>
+                    <path d="M31,11.6346039 C31,11.6346039 14.9978125,27.7777778 14.9978125,27.7777778 C14.9978125,27.7777778 13.692125,26.4600676 13.692125,26.4600676 C13.692125,26.4600676 13.6165625,26.5359952 13.6165625,26.5359952 C13.6165625,26.5359952 5,17.8435169 5,17.8435169 C5,17.8435169 7.61218749,15.208913 7.61218749,15.208913 C7.61218749,15.208913 14.9230625,22.5844976 14.9230625,22.5844976 C14.9230625,22.5844976 28.3878125,9 28.3878125,9 C28.3878125,9 31,11.6346039 31,11.6346039 C31,11.6346039 31,11.6346039 31,11.6346039 Z" id="Shape" fill="#D1AD71" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

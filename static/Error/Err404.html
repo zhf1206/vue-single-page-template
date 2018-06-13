@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no">
+  <title>欧罗巴聚财</title>
+  <meta name="keywords" content=""/>
+  <meta name="description" content="" />
+  <meta name="referrer" content="never">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="msapplication-tap-highlight" content="no">
+  <meta name="format-detection" content="telphone=no,email=no">
+  <meta name="HandheldFriendly" content="true">
+  <!-- uc强制竖屏 -->
+  <meta name="screen-orientation" content="portrait">
+  <!-- QQ强制竖屏 -->
+  <meta name="x5-orientation" content="portrait">
+  <meta name="apple-mobile-web-app-title" content="欧罗巴聚财">
+  <title>错误</title>
+</head>
+<style>
+  html,body,section,image{
+    padding: 0;
+    margin:0;
+    border: 0;
+  }
+  html,body,.eur-404{
+    width:100%;
+    height:100%;
+  }
+  .head{
+    display: block;
+    width: 100%;
+    height: 44px;
+    line-height: 44px;
+    font-size: 18px;
+    text-align: center;
+    color: #222;
+    background-color: #fff;
+    border-bottom: 1px solid #e2e2e2;
+    position: absolute;
+    top: 0;
+    z-index: 2;
+  }
+  .ico-back{
+    display: block;
+    width: 44px;
+    height: 44px;
+    background: url('ico-back.svg') no-repeat center;
+    background-size: 41% 41%;
+    position: absolute;
+    left: 7px;
+  }
+  .content{
+    width:100%;
+    height:100%;
+    overflow: hidden;
+    background-color: #F5F5F7;
+    padding:0 25px;
+    box-sizing: border-box;
+  }
+  img{
+    margin-top:75px;
+    height:300px;
+  }
+</style>
+<body>
+  <div class="eur-404">
+    <header class="head"><span class="ico-back" onclick="backClick()"></span>错误</header>
+    <section class="content">
+      <img src="404.png" alt="" onclick="backClick()">
+    </section>
+  </div> 
+</body>
+</html>
+<script>
+var backClick = function() {
+  window.history.go(-1);
+}
+</script>

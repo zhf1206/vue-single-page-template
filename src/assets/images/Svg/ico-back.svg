@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="36px" viewBox="0 0 20 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>return_press</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="注册" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-40.000000, -66.000000)" opacity="0.5">
+        <g id="navigation" fill="#393649" fill-rule="nonzero">
+            <g id="导航">
+                <g id="菜单栏">
+                    <g id="return_press" transform="translate(40.000000, 66.000000)">
+                        <path d="M4.23499878,17.9999949 L19.5806934,2.77353381 C20.1104648,2.24723756 20.1104648,1.39539466 19.5806934,0.870082623 L19.1012782,0.393984001 C18.5705589,-0.131328 17.7125649,-0.131328 17.1827522,0.393984001 L0.396586859,17.0477977 C-0.13219562,17.5740529 -0.13219562,18.4259778 0.396586859,18.9522331 L17.1827522,35.6060467 C17.7125236,36.1313178 18.5724958,36.1313178 19.1012782,35.6060467 L19.5806934,35.1299481 C20.1104648,34.6046361 20.1104648,33.7527932 19.5806934,33.2255127 L4.23499878,17.9999949 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

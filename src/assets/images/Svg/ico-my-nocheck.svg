@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>我的</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="首页-预览" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-570.000000, -1250.000000)">
+        <g id="Group" transform="translate(0.000000, 1236.000000)">
+            <g id="我的" transform="translate(570.000000, 14.000000)">
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="70" height="70"></rect>
+                <path d="M35,35.6666641 C40.4857492,35.6666641 45,30.6312315 45,24.333332 C45,18.0354326 40.4857492,13 35,13 C29.5142508,13 25,18.0354326 25,24.333332 C25,30.6312315 29.5142508,35.6666641 35,35.6666641 Z M17,49.6666629 C17,53.7120563 20.2905339,56.9999953 24.3426667,56.9999953 L45.6593333,56.9999963 C47.6055246,57.0019425 49.4726711,56.230185 50.8495244,54.8547074 C52.2263776,53.4792298 53.000001,51.6128558 53,49.6666629 C53,45.6212695 49.7094661,42.3333305 45.6573333,42.3333305 L24.3406667,42.3333295 C22.3944754,42.3313833 20.5273289,43.1031408 19.1504756,44.4786184 C17.7736224,45.854096 16.999999,47.72047 17,49.6666619 Z" id="Shape" stroke="#AAAAAA" stroke-width="4" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

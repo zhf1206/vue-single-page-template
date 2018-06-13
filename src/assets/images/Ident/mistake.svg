@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>mistake</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-40.5780754%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-40.5780754%" x2="50%" y2="84.7005208%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="添加银行卡-设置密码失败" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-315.000000, -249.000000)">
+        <g id="registered-successfully" transform="translate(203.000000, 249.000000)" fill-rule="nonzero">
+            <g id="mistake" transform="translate(112.000000, 0.000000)">
+                <path d="M60.0030002,0 C26.8633432,0 0,26.862 0,60 C0,93.138 26.8633432,120 60.0030002,120 C93.1366568,120 120,93.138 120,60 C120,26.862 93.1366568,0 60.0030002,0 Z" id="Shape" fill="#EE736F"></path>
+                <g id="cha" transform="translate(32.000000, 32.000000)" fill="url(#linearGradient-2)">
+                    <path d="M54.3529412,48.4582043 L34.2414861,28 L54.6996904,7.54179566 C56.4334365,5.80804955 56.4334365,3.03405569 54.6996904,1.30030958 C52.9659443,-0.433436528 50.1919505,-0.433436528 48.4582043,1.30030958 L28,21.7585139 L7.54179566,1.64705879 C5.80804949,-0.0866873165 3.03405569,-0.0866873165 1.30030958,1.64705879 C-0.433436528,3.38080491 -0.433436528,6.15479876 1.30030958,7.88854487 L21.7585139,28 L1.30030958,48.4582043 C-0.433436528,50.1919505 -0.433436528,52.9659443 1.30030958,54.6996904 C3.03405569,56.4334365 5.80804955,56.4334365 7.54179566,54.6996904 L28,34.2414861 L48.4582043,54.6996904 C50.1919505,56.4334365 52.9659443,56.4334365 54.6996904,54.6996904 C56.0866873,52.9659443 56.0866873,50.1919505 54.3529412,48.4582043" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

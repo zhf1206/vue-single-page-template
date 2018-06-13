@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>succeed</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-40.5780754%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="添加银行卡-成功" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-315.000000, -249.000000)">
+        <g id="registered-successfully" transform="translate(235.000000, 249.000000)">
+            <g id="succeed" transform="translate(80.000000, 0.000000)">
+                <path d="M60.0030002,0 C26.8633432,0 0,26.862 0,60 C0,93.138 26.8633432,120 60.0030002,120 C93.1366568,120 120,93.138 120,60 C120,26.862 93.1366568,0 60.0030002,0 Z" id="Shape" fill="#EBC97F" fill-rule="nonzero"></path>
+                <path d="M93.9046952,43.404 L52.6226311,84.684 C52.5566278,84.75 52.5386269,84.834 52.4666233,84.9 C50.1265063,87.246 46.5743287,87.498 44.5462273,85.464 L44.1142057,85.032 C44.0542027,84.978 43.9761988,84.96 43.9161958,84.9 C43.8561928,84.846 43.8381919,84.768 43.7841892,84.708 L25.7112856,66.63 C23.6771839,64.602 23.9291965,61.05 26.2753138,58.71 C28.6154308,56.364 32.1616081,56.112 34.1957098,58.146 L48.1944097,72.144 L85.420271,34.92 C87.760388,32.574 91.5585779,32.574 93.9046952,34.92 C96.2508125,37.26 96.2508125,41.058 93.9046952,43.404 Z" id="Path" fill="url(#linearGradient-1)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

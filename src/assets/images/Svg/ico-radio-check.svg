@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>单选选中</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="风险评估1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-80.000000, -512.000000)">
+        <g id="Group-2" transform="translate(40.000000, 168.000000)">
+            <g id="单选选中" transform="translate(40.000000, 344.000000)">
+                <circle id="Oval" stroke="#D1AD71" stroke-width="4" cx="18" cy="18" r="16"></circle>
+                <circle id="Oval" fill="#D1AD71" cx="18" cy="18" r="8"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
